@@ -15,26 +15,33 @@
 - A seguir, serão descritas as etapas do projeto:
 
 #### Etapa 1: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [Descrição de caso de uso]
+- EC2
+- Montar um servidor na nuvem com escalabilidade
+- O software da Abstergo Industries será migrado para a AWS para termos um melhor controle sobre os gastos de um servidor
 
 #### Etapa 2: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [Descrição de caso de uso]
+- RDS
+- Banco de dados
+- O banco de dados da empresa será migrado para a AWS.
+- Temos uma segurança maior utilizando o RDS na AWS.
 
 #### Etapa 3: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [Descrição de caso de uso]
+- S3
+- Armazenamento de objetos
+- Será feito o armazenamento de relatórios gerados pelo sistema
+- Isso irá retirar a responsabilidade do banco de dados e diminuir o tamanho gerando agilidade e mantendo o sistema com uma taxa de resposta constante
 
 ### Conclusão
-- A implementação de ferramentas na empresa Abstergo Industries tem como esperado [benefícios das ferramentas], o que aumentará a eficiência e a produtividade da empresa.
+- A implementação de ferramentas na empresa Abstergo Industries tem como esperado escalabilidade, segurança e diminuição de custos o que aumentará a eficiência e a produtividade da empresa.
 - Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ### Anexos
-- [lista de anexos, como manuais, documentos, planilhas, entre outros]
+- Documentação EC2
+  - https://docs.aws.amazon.com/pt_br/ec2/
+- Documentação RDS
+  - https://docs.aws.amazon.com/pt_br/rds/?id=docs_gateway
+- Documentação S3
+  - https://docs.aws.amazon.com/pt_br/s3/?id=docs_gateway  
 
 ### Assinatura do Responsável pelo Projeto:
 
